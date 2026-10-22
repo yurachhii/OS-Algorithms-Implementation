@@ -1,0 +1,6 @@
+Enter Resident Set Capacity :
+Enter number of pages :
+Enter the refrences 
+
+Page faults = 6
+Page hits   = 2
